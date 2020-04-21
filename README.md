@@ -9,6 +9,6 @@ Pseudocode
 4. On completion, send an email to me.
 
 
-Possible technology/languageto use:
+Possible technology/language to use:
 1. Python to request the data and send the email
 2. BeautifulSoup to parse and search the returned HTML
